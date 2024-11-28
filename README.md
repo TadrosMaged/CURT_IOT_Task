@@ -77,4 +77,3 @@ Broker: a third party that connects the publisher to subscribers
 5. Run `mosquitto -c test.conf -v` 
 	- `-v` shows some extra details like (Accuracy, Loss, ...etc) 
 6. To connect to the broker u need **IP** and **Port**
-7. 
